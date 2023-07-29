@@ -5,3 +5,5 @@ def get_random_num():
 
 # My commits better be verified now lol
 # test 2, forgot to set gpg-sign to true
+
+# test1 from laptop, come on work!!
